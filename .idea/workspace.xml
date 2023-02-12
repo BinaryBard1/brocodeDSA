@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d2cc30d-20cf-45f5-8582-a5214993c321" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="3d2cc30d-20cf-45f5-8582-a5214993c321" name="Changes" comment="Day 1(DSA)">
+      <change afterPath="$PROJECT_DIR$/Queues.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/brocodeDSA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/brocodeDSA.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stacks.java" beforeDir="false" afterPath="$PROJECT_DIR$/stacks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stacks.java" beforeDir="false" afterPath="$PROJECT_DIR$/Stacks.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,9 +36,16 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
-    <configuration name="stacks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stacks" />
+  <component name="RunManager" selected="Application.Queues">
+    <configuration name="Queues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Queues" />
+      <module name="brocodeDSA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Stacks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stacks" />
       <module name="brocodeDSA" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -47,7 +53,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.stacks" />
+        <item itemvalue="Application.Queues" />
+        <item itemvalue="Application.Stacks" />
       </list>
     </recent_temporary>
   </component>
@@ -60,9 +67,19 @@
       <option name="presentableId" value="Default" />
       <updated>1676129735724</updated>
     </task>
+    <task id="LOCAL-00001" summary="Day 1(DSA)">
+      <created>1676178005097</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676178005097</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Day 1(DSA)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 1(DSA)" />
   </component>
 </project>

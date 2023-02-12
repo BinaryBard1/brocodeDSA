@@ -1,6 +1,6 @@
 import java.util.Stack;
 
-public class stacks {
+public class Stacks {
     public static void main(String[] args) {
         Stack <String> books = new Stack<>();
         System.out.println(books.isEmpty());
