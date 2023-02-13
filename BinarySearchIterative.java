@@ -12,7 +12,8 @@ public class BinarySearchIterative {
             int midValue = array[mid];
             if(mid == key) System.out.println("Found at "+(mid-1));
             if (key>midValue) start = mid+1;
-            if(key<midValue) end = mid-1;
+            else if(key<midValue) end = mid-1;
         }
+
     }
 }
