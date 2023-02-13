@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d2cc30d-20cf-45f5-8582-a5214993c321" name="Changes" comment="Day 2(DSA)">
-      <change afterPath="$PROJECT_DIR$/BinarySearchD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinarySearchIterative.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/BinarySearchA.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +35,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.BinarySearchA">
+  <component name="RunManager" selected="Application.BinarySearchIterative">
     <configuration name="BinarySearchA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BinarySearchA" />
       <module name="brocodeDSA" />
@@ -46,6 +45,13 @@
     </configuration>
     <configuration name="BinarySearchD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BinarySearchD" />
+      <module name="brocodeDSA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinarySearchIterative" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearchIterative" />
       <module name="brocodeDSA" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -65,20 +71,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Queues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Queues" />
-      <module name="brocodeDSA" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BinarySearchIterative" />
         <item itemvalue="Application.BinarySearchA" />
         <item itemvalue="Application.BinarySearchD" />
         <item itemvalue="Application.LinearSearch" />
         <item itemvalue="Application.PriorityQueues" />
-        <item itemvalue="Application.Queues" />
       </list>
     </recent_temporary>
   </component>
@@ -126,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676290971834</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Day 2(DSA)">
+      <created>1676294820121</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1676294820121</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
